@@ -48,7 +48,7 @@ Atualmente, estou a trabalhar com:
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![Power Query](https://img.shields.io/badge/-Power%20Query-008272?logo=microsoft&logoColor=white&style=flat-square)
 ![DAX](https://img.shields.io/badge/-DAX-000000?logo=databricks&logoColor=white&style=flat-square)
-![Python (em exploração)](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
 
 ---
 
